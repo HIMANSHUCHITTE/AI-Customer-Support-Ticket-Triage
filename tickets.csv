@@ -1,0 +1,53 @@
+ticket_text,category,priority
+"I was charged twice for my order and need a refund.",Billing,High
+"There is an unauthorized charge on my credit card statement.",Billing,High
+"My subscription renewed automatically but I had canceled it earlier.",Billing,High
+"Payment failed during checkout but money was deducted from my bank account.",Billing,High
+"I need an urgent refund for an item that arrived damaged.",Billing,High
+"Can you please send me the invoice for my purchase last month?",Billing,Low
+"I would like to update my billing address and credit card details.",Billing,Medium
+"Why was my card declined when I tried to pay my monthly fee?",Billing,Medium
+"I noticed a small pricing discrepancy on my latest receipt.",Billing,Medium
+"What payment methods do you accept on your platform?",Billing,Low
+"Can you explain the taxes applied to my recent order?",Billing,Low
+"How do I apply a discount promo code during checkout?",Billing,Low
+"I want to cancel my recurring subscription before next month.",Billing,Medium
+"I cannot reset my account password.",Account,High
+"My account has been locked after several failed login attempts.",Account,High
+"I suspect someone else accessed my account without authorization.",Account,High
+"I am not receiving the two-factor authentication verification code.",Account,High
+"My login credentials are correct but the system says user not found.",Account,High
+"How can I change the email address linked to my profile?",Account,Medium
+"I want to update my username and display name.",Account,Low
+"Please help me delete or deactivate my user account.",Account,Medium
+"Where can I upload a new profile picture in settings?",Account,Low
+"How do I enable two-factor authentication on my account?",Account,Low
+"The password reset link in my email has expired.",Account,Medium
+"I forgot which email address I used to register my account.",Account,Medium
+"Can I merge two separate user accounts into one?",Account,Low
+"The mobile application crashes whenever I open it.",Technical,High
+"The app keeps freezing every time I navigate to the dashboard.",Technical,High
+"I am getting a 500 internal server error when saving changes.",Technical,High
+"The website fails to load and gives a connection timeout error.",Technical,High
+"The checkout button is completely unresponsive on iOS devices.",Technical,High
+"The app takes more than thirty seconds to load user data.",Technical,Medium
+"Images are not loading properly on the product details page.",Technical,Medium
+"The search filter is returning incorrect results on the site.",Technical,Medium
+"Audio is out of sync during video playback in the mobile app.",Technical,Medium
+"Push notifications are arriving delayed by several hours.",Technical,Medium
+"Does your web application support the latest version of Firefox?",Technical,Low
+"Minor typo found on the settings page text.",Technical,Low
+"How can I clear cache and cookies in the desktop app?",Technical,Low
+"The item I received does not match the product description online.",Product,Medium
+"Can you provide detailed dimensions and specifications for this item?",Product,Low
+"Do you have plans to offer this product in different colors or sizes?",Product,Low
+"The user manual is missing from the package I received.",Product,Medium
+"How do I assemble the product based on the instructions?",Product,Low
+"Would you consider adding a dark mode theme feature to the product?",Product,Low
+"The product arrived with defective parts and does not turn on.",Product,High
+"I want to suggest an export to PDF feature in the report section.",Product,Low
+"Is this product compatible with Windows 11 operating system?",Product,Low
+"The product packaging was torn upon delivery.",Product,Medium
+"When will the out of stock wireless keyboard be available again?",Product,Low
+"The product battery drains much faster than advertised.",Product,Medium
+"Critical safety hazard discovered with the power adapter.",Product,High
